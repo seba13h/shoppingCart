@@ -1,0 +1,38 @@
+.content{
+	border: solid black;
+	text-align: center;
+	margin: auto;
+	padding:15px
+}
+.button-add{
+	background: blueviolet;
+	color: white !important;
+	padding: 2px;
+	border: solid black;
+}
+.button-remove{
+	background: red;
+	color: white !important;
+	padding: 2px;
+}
+.card{
+	width: 18rem;
+	display: inline-block;
+	margin-left: 10px;
+}
+#red{
+	background-color: red;
+	height: 80px;
+}
+#blue{
+	background-color: blue;
+	height: 80px;
+}
+#green{
+	background-color: green;
+	height: 80px;
+}
+#yellow{
+	background-color: yellow;
+	height: 80px;
+}
